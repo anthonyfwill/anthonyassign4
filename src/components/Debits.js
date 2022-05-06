@@ -17,7 +17,7 @@ const Debits = (props) => {
              <input type="number" name="amount" />
              <button type="submit">Add Debit</button>
            </form>
-           <Link to="/anthonyassign4">Home</Link>
+           <Link to="https://anthonyfwill.github.io/anthonyassign4/">Home</Link>
     	</div>
 
     )
